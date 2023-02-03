@@ -1,1 +1,1 @@
-My first readme
+ALX Software Engineering journey
